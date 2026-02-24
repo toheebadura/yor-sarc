@@ -135,7 +135,7 @@ All texts were cleaned and standardized before annotation.
 
 #### Data Collection and Processing
 
-- Manual collection and filtering
+- Web scraping, Manual collection and filtering
 - Standardized orthographic normalization
 - Three independent native-speaker annotations
 - Majority voting for final labels
