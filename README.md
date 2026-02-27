@@ -4,10 +4,13 @@ language:
 - yo
 tags:
 - sarcasm detection
+- text classification
 - sentiment analysis
 - figurative language
-- low-resource nlp
+- low-resource NLP
 - african languages
+task_categories:
+- text-classification
 pretty_name: yor-sarc
 ---
 
@@ -56,7 +59,7 @@ Yor-Sarc provides a foundational benchmark for evaluating machine learning, deep
 
 - **Paper (arXiv):** https://arxiv.org/abs/2602.18964  
 - **ePrint:** 2602.18964  
-
+- **Official GitHub Repository:** https://github.com/toheebadura/yor-sarc  
 ---
 
 ## Uses
